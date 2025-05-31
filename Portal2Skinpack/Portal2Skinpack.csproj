@@ -25,7 +25,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Portal 2 Skinpack.csproj.user" />
+    <Content Include="Portal2Skinpack.csproj.user" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets\" />

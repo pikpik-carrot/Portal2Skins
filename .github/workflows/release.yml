@@ -15,7 +15,7 @@ permissions:
 
 env:
   PROJ_USERNAME: pikpik_carrot
-  PROJ_NAME: Portal 2 Skinpack
+  PROJ_NAME: Portal2Skinpack
 
 jobs:
   pre_job:
