@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 4020112490
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: traveller_hea_player_chell
+      Dependencies: {}
+    Info_1:
+      Name: traveller_hea_player_atlas
+      Dependencies: {}
+    Info_2:
+      Name: traveller_hea_player_p-body
+      Dependencies: {}
