@@ -4,7 +4,7 @@
   "author": "pikpik_carrot",
   "name": "Portal 2 Skinpack",
   "uniqueName": "pikpik_carrot.Portal 2 Skinpack",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "owmlVersion": "2.9.6",
   "dependencies": [ "pikpik_carrot.SkinChanger" ]
 }
