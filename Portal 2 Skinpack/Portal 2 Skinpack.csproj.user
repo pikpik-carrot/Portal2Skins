@@ -1,5 +1,0 @@
-﻿<Project>
-  <PropertyGroup>
-    <OutputPath>$(AppData)\OuterWildsModManager\OWML\Mods\pikpik_carrot.Portal 2 Skinpack</OutputPath>
-  </PropertyGroup>
-</Project>
